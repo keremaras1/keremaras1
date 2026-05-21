@@ -16,25 +16,26 @@ Here are some ideas to get you started:
 # Hi there, I'm Kerem! 👋
 
 ## About Me
-I'm a motivated and results-driven CS student with nearly 2 years of experience in machine learning, deep learning, and computer vision. My expertise lies in developing advanced deep learning solutions, creating data pipelines, and containerizing development environments. I have published peer-reviewed papers, and collaborated across various projects to deliver impactful results.
 
-- 🔭 I’m currently working on a student project, testing and analyzing the robustness of [GraphSynergy](https://github.com/JasonJYang/GraphSynergy) through manipulation of the graph information used by the GNN and cross validating it's performance.
-- 👯 I’m looking to collaborate on exciting machine learning and software projects
-- 💬 Ask me about machine learning, deep neural networks, and computer vision
+I'm a software engineer with production experience in cloud-native backend development at SAP SE, and a research background in machine learning, computer vision, and deep learning. I hold a B.Sc. in Industrial Engineering & Management (specialised in IT/CS) from TU Berlin with a 1.0 thesis grade, and am currently pursuing an M.Sc. in Computer Science at TU Berlin.
+
+- 🔭 I'm currently working as a Software Developer at SAP SE Berlin, contributing to cloud-native microservice development and data center automation for SAP Cloud ALM
+- 🌱 I'm currently deepening my expertise in cloud-native architectures, distributed systems, and backend engineering
+- 💬 Ask me about microservice architectures, cloud-native backend development, machine learning, and computer vision
+- 📫 Reach me at: araskerem1@gmail.com | [LinkedIn](https://www.linkedin.com/in/kerem-aras-021036218/)
 
 ## Skills & Tools
+
 - **Programming Languages**: Python, Java
-- **Deep Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Weights & Biases
-- **Data Analysis**: Pandas, R, SQL
-- **Containerization**: Docker
+- **Backend & Cloud**: Java Spring Boot, SAP Cloud Application Programming Model (CAP), RESTful APIs, GraphQL, OData, Microservice Architectures, Maven
+- **Data, ML & Observability**: TensorFlow, Keras, Scikit-Learn, Pandas, Weights & Biases, OpenSearch
+- **Tooling & Platforms**: Docker, SAP UI5, MVC
 
 ## Publications
-- **[Automated Optical Inspection for Quality Control in PCBA Assembly Lines: A Case Study for Point of Sale Devices](https://doi.org/10.1109/HORA61326.2024.10550768)** (HORA 2024)
-- **[Automated Optical Inspection for Printed Circuit Board Assembly Manufacturing with Transfer Learning and Synthetic Data Generation](https://doi.org/10.1109/MED54222.2022.9837280)** (MED 2022)
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/kerem-aras-021036218/)
-- [E-Mail](araskerem1@gmail.com)
+- **[Automated Optical Inspection for Quality Control in PCBA Assembly Lines: A Case Study for Point of Sale Devices](https://doi.org/10.1109/HORA61326.2024.10550768)** — HORA 2024
+- **[Automated Optical Inspection for Printed Circuit Board Assembly Manufacturing with Transfer Learning and Synthetic Data Generation](https://doi.org/10.1109/MED54222.2022.9837280)** — MED 2022
 
 ## GitHub Stats
+
 ![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremaras1&show_icons=true&theme=radical)
